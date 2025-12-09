@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Angular, CSS, Django, HTML, MySQL, Python, TypeScript
+- **Detected Technologies:** Python, Node.js / JavaScript / TypeScript, Django, Express.js, Angular
 - **GitHub Topics:** None
 
 ---
