@@ -15,23 +15,23 @@ A fully customized architectural diagram has been generated for this project.
 ---
 
 ## 🧠 Detected Architecture Type
-**None**
+**backend_service**
 
 ---
 
 ## 🛠 Technologies Used
 
 ### **Languages**
-None
+python, typescript
 
 ### **Frameworks**
-None
+angular, django
 
 ### **Machine Learning / AI Stack**
 None
 
 ### **Database Layer**
-None
+mysql
 
 ### **Cloud Providers / Services**
 None
@@ -40,7 +40,7 @@ None
 None
 
 ### **Pipeline Components**
-None
+ml_pipeline
 
 ### **Identified Internal Services / Modules**
 None
@@ -62,7 +62,7 @@ All files are saved under the project's **diagram/** directory.
 ---
 
 ## 📦 Source Code Analysis
-- Total scanned files: **0**
+- Total scanned files: **34**
 - Analysis is based on deep source code scanning (not metadata).
 
 ---
